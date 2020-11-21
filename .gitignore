@@ -130,3 +130,10 @@ dmypy.json
 
 # IDE
 .vscode
+
+# Azure Functions artifacts
+bin
+obj
+appsettings.json
+local.settings.json
+.python_packages
