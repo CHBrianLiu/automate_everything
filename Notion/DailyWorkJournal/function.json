@@ -2,7 +2,7 @@
   "scriptFile": "__init__.py",
   "bindings": [
     {
-      "name": "mytimer",
+      "name": "DailyWorkJournal",
       "type": "timerTrigger",
       "direction": "in",
       "schedule": "0 0 0 * * 1-5"
