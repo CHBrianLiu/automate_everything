@@ -17,7 +17,7 @@ flake8==3.8.4
 idna==2.10
 mccabe==0.6.1
 mypy-extensions==0.4.3
-notion==0.0.25
+notion==0.0.28
 pathspec==0.8.1
 pycodestyle==2.6.0
 pyflakes==2.2.0
